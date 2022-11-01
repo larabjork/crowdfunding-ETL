@@ -22,4 +22,4 @@ The initial ERD was modified to include a table for information about campaign b
 ![entity relationship diagram with five tables](https://github.com/larabjork/crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png)
 
 ### Queries
-I wrote queries as specified in the challenge, which are saved as [crowdfunding_SQL_Analysis.sql] https://github.com/larabjork/crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql
+I wrote queries as specified in the challenge, which are saved as [crowdfunding_SQL_Analysis.sql](https://github.com/larabjork/crowdfunding-ETL/blob/main/crowdfunding_SQL_Analysis.sql)
